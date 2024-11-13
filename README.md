@@ -265,7 +265,7 @@
 
 *   [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - A C# port of shadowsocks
 
-*   [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, support Xray core and v2fly core and others
+*   [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows and Linux, support Xray core and v2fly core and others
 
 *   [dragonyue0417/SmartHunter](https://github.com/dragonyue0417/SmartHunter) - A complete overlay for Monster Hunter: World on PC
 
