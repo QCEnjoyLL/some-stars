@@ -121,7 +121,7 @@
 
 *   [chenxuuu/24h-raspberry-live-on-bilibili](https://github.com/chenxuuu/24h-raspberry-live-on-bilibili) - 🎦树莓派/VPS驱动的b站直播弹幕点播台，代码写得很烂，看之前请吃点降压药。已计划重写
 
-*   [KotoriMinami/qinglong-sign](https://github.com/KotoriMinami/qinglong-sign) - 青龙脚本-网易云音乐合伙人评分、什么值得买签到
+*   [KotoriMinami/qinglong-sign](https://github.com/KotoriMinami/qinglong-sign) - 青龙脚本-网易云音乐合伙人评分、九号出行签到
 
 *   [Mashiro2000/HeyTapTask](https://github.com/Mashiro2000/HeyTapTask) - 适配青龙面板/云函数/本地运行的欢太商城脚本
 
