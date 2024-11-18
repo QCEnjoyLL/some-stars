@@ -8,6 +8,7 @@
 
 ## Table of Contents
 
+*   [miscellaneous](#miscellaneous)
 *   [Go](#go)
 *   [Vue](#vue)
 *   [PHP](#php)
@@ -17,7 +18,6 @@
 *   [TypeScript](#typescript)
 *   [Java](#java)
 *   [Dockerfile](#dockerfile)
-*   [miscellaneous](#miscellaneous)
 *   [CSS](#css)
 *   [JavaScript](#javascript)
 *   [Rust](#rust)
@@ -32,6 +32,48 @@
 *   [Blade](#blade)
 *   [Lua](#lua)
 *   [Roff](#roff)
+
+## miscellaneous
+
+*   [trungdq88/Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) - Awesome deals on Black Friday: Apps, SaaS, Books, Courses, etc.
+
+*   [foss-android/docker2tar](https://github.com/foss-android/docker2tar) - Docker镜像智能打包离线包
+
+*   [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - US.KG Free Domain For Everyone
+
+*   [JeoJay127/RapidEFI-Tool](https://github.com/JeoJay127/RapidEFI-Tool) - An excellent one-click EFI configuration tool based on OpenCore
+
+*   [Aethersailor/Custom\_OpenClash\_Rules](https://github.com/Aethersailor/Custom_OpenClash_Rules) - 分流完善的 OpenClash 订阅转换模板，搭配保姆级 OpenClash 设置教程，无需套娃即可实现完美分流、DNS无污染无泄漏，且快速的国内外上网体验。
+
+*   [andandroidor/ourtv](https://github.com/andandroidor/ourtv) - 稳定、蓝光、高清、电视直播
+
+*   [shenxianmq/Auto\_Symlink](https://github.com/shenxianmq/Auto_Symlink) - 实时监控文件夹，创建与更新软链接/strm文件，自动复制与更新元数据，清空无效文件夹，清空无效软链接
+
+*   [Ruk1ng001/freeSub](https://github.com/Ruk1ng001/freeSub) - free clash sub. Update at anytime. 不要fork !!! 不要fork !!! 不要fork !!!
+
+*   [YuHuanTin/IDM\_Cracker](https://github.com/YuHuanTin/IDM_Cracker) -
+
+*   [mumuceo/file01](https://github.com/mumuceo/file01) - 数据文件
+
+*   [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+
+*   [zbezj/HEU\_KMS\_Activator](https://github.com/zbezj/HEU_KMS_Activator) -
+
+*   [rd2coding/Road2Coding](https://github.com/rd2coding/Road2Coding) - 编程之路
+
+*   [Zy143L/python](https://github.com/Zy143L/python) - Python练习
+
+*   [yangtingxiao/QuantumultX](https://github.com/yangtingxiao/QuantumultX) - 脚本，自用
+
+*   [Tartarus2014/Loon-Script](https://github.com/Tartarus2014/Loon-Script) - Loon脚本收集
+
+*   [fuck-xuexiqiangguo/Fuck-XueXiQiangGuo](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo) - 学习强国 懒人刷分工具 自动学习
+
+*   [shadowsocksr-backup/shadowsocksr-android](https://github.com/shadowsocksr-backup/shadowsocksr-android) - A ShadowsocksR client for Android
+
+*   [n2far2000/winrarsc](https://github.com/n2far2000/winrarsc) - WinRAR Official Release (Simplified Chinese)
+
+*   [unlock-music/unlock-music](https://github.com/unlock-music/unlock-music) - Unlock encrypted music file in browser. 在浏览器中解锁加密的音乐文件。
 
 ## Go
 
@@ -297,8 +339,6 @@
 
 *   [91yun/91yuntest](https://github.com/91yun/91yuntest) - 91云服务器一键测试包
 
-*   [veip007/dd](https://github.com/veip007/dd) - 萌咖大佬的Linux 一键DD脚本
-
 ## C\#
 
 *   [UnigramDev/Unigram](https://github.com/UnigramDev/Unigram) - Telegram for Windows
@@ -365,6 +405,8 @@
 
 *   [lyswhut/lx-music-mobile](https://github.com/lyswhut/lx-music-mobile) - 一个基于 React native 开发的音乐软件
 
+*   [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
+
 *   [YunYouJun/air-conditioner](https://github.com/YunYouJun/air-conditioner) - ❄️ Yun Portable Air Conditoner. 云空调，便携小空调，为你的夏日带去清凉！
 
 *   [whyour/qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
@@ -404,46 +446,6 @@
 *   [hongyonghan/Docker\_Microsoft365\_E5\_Renew\_X](https://github.com/hongyonghan/Docker_Microsoft365_E5_Renew_X) - Docker版本的E5调用API续订服务：Microsoft 365 E5 Renew X
 
 *   [beardedio/terraria](https://github.com/beardedio/terraria) - Docker images to run a Terraria Server. Images with TShock Server or Vanilla Server are available.
-
-## miscellaneous
-
-*   [foss-android/docker2tar](https://github.com/foss-android/docker2tar) - Docker镜像智能打包离线包
-
-*   [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - US.KG Free Domain For Everyone
-
-*   [JeoJay127/RapidEFI-Tool](https://github.com/JeoJay127/RapidEFI-Tool) - An excellent one-click EFI configuration tool based on OpenCore
-
-*   [Aethersailor/Custom\_OpenClash\_Rules](https://github.com/Aethersailor/Custom_OpenClash_Rules) - 分流完善的 OpenClash 订阅转换模板，搭配保姆级 OpenClash 设置教程，无需套娃即可实现完美分流、DNS无污染无泄漏，且快速的国内外上网体验。
-
-*   [andandroidor/ourtv](https://github.com/andandroidor/ourtv) - 稳定、蓝光、高清、电视直播
-
-*   [shenxianmq/Auto\_Symlink](https://github.com/shenxianmq/Auto_Symlink) - 实时监控文件夹，创建与更新软链接/strm文件，自动复制与更新元数据，清空无效文件夹，清空无效软链接
-
-*   [Ruk1ng001/freeSub](https://github.com/Ruk1ng001/freeSub) - free clash sub. Update at anytime. 不要fork !!! 不要fork !!! 不要fork !!!
-
-*   [YuHuanTin/IDM\_Cracker](https://github.com/YuHuanTin/IDM_Cracker) -
-
-*   [mumuceo/file01](https://github.com/mumuceo/file01) - 数据文件
-
-*   [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
-
-*   [zbezj/HEU\_KMS\_Activator](https://github.com/zbezj/HEU_KMS_Activator) -
-
-*   [rd2coding/Road2Coding](https://github.com/rd2coding/Road2Coding) - 编程之路
-
-*   [Zy143L/python](https://github.com/Zy143L/python) - Python练习
-
-*   [yangtingxiao/QuantumultX](https://github.com/yangtingxiao/QuantumultX) - 脚本，自用
-
-*   [Tartarus2014/Loon-Script](https://github.com/Tartarus2014/Loon-Script) - Loon脚本收集
-
-*   [fuck-xuexiqiangguo/Fuck-XueXiQiangGuo](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo) - 学习强国 懒人刷分工具 自动学习
-
-*   [shadowsocksr-backup/shadowsocksr-android](https://github.com/shadowsocksr-backup/shadowsocksr-android) - A ShadowsocksR client for Android
-
-*   [n2far2000/winrarsc](https://github.com/n2far2000/winrarsc) - WinRAR Official Release (Simplified Chinese)
-
-*   [unlock-music/unlock-music](https://github.com/unlock-music/unlock-music) - Unlock encrypted music file in browser. 在浏览器中解锁加密的音乐文件。
 
 ## CSS
 
@@ -532,8 +534,6 @@
 *   [Tsukasa007/my\_script](https://github.com/Tsukasa007/my_script) - 學習自動化
 
 *   [Toulu-debug/enen](https://github.com/Toulu-debug/enen) -
-
-*   [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 
 *   [ilteoood/docker\_buildx](https://github.com/ilteoood/docker_buildx) - GitHub actions with docker buildx
 
