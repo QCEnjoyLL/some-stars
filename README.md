@@ -39,7 +39,7 @@
 
 *   [yosebyte/passport](https://github.com/yosebyte/passport) - All-in-one yet simple tool for network tunneling and port forwarding with secure access control all using 1-URL command.
 
-*   [scjtqs2/mtlogin](https://github.com/scjtqs2/mtlogin) -
+*   [scjtqs2/mtlogin](https://github.com/scjtqs2/mtlogin) - 馒头pt的保活签到脚本服务
 
 *   [VoAPI/VoAPI](https://github.com/VoAPI/VoAPI) - 全新的高颜值/高性能的AI模型接口管理与分发系统，仅供个人学习使用，请勿用于任何商业用途，本项目基于NewAPI开发。A brand new high aesthetic/high-performance AI model interface management and distribution system is only for personal or internal management and distribution channels of enterprises. Please do not use it for commercial purposes.
 
