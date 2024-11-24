@@ -8,6 +8,7 @@
 
 ## Table of Contents
 
+*   [Batchfile](#batchfile)
 *   [Go](#go)
 *   [Python](#python)
 *   [miscellaneous](#miscellaneous)
@@ -21,7 +22,6 @@
 *   [CSS](#css)
 *   [JavaScript](#javascript)
 *   [Rust](#rust)
-*   [Batchfile](#batchfile)
 *   [C](#c-1)
 *   [HTML](#html)
 *   [C++](#c-2)
@@ -32,6 +32,16 @@
 *   [Blade](#blade)
 *   [Lua](#lua)
 *   [Roff](#roff)
+
+## Batchfile
+
+*   [oop7/IDM-Activator](https://github.com/oop7/IDM-Activator) - A script designed to automate the activation of IDM with a single click. It handles file management, decoding, and administrative tasks, simplifying the activation process for users.
+
+*   [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
+
+*   [FongMi/Release](https://github.com/FongMi/Release) -
+
+*   [WindowsAddict/IDM-Activation-Script](https://github.com/WindowsAddict/IDM-Activation-Script) - An open source tool to activate and reset trial of Internet Download Manager
 
 ## Go
 
@@ -274,8 +284,6 @@
 *   [sebsauvage/Shaarli](https://github.com/sebsauvage/Shaarli) - The personal, minimalist, super-fast, no-database delicious clone.
 
 *   [5iux/sou](https://github.com/5iux/sou) - 简单搜索，一个简单的前端界面。用惯了各种导航首页，满屏幕尽是各种不厌其烦的广告和资讯；尝试自己写个自己的主页。
-
-*   [MoePlayer/DPlayer-Typecho](https://github.com/MoePlayer/DPlayer-Typecho) - Typecho plugin for DPlayer
 
 ## Shell
 
@@ -580,14 +588,6 @@
 *   [HZzz2/tgbot-app](https://github.com/HZzz2/tgbot-app) - Telegram Bot助手
 
 *   [betta-cyber/netease-music-tui](https://github.com/betta-cyber/netease-music-tui) - netease cloud music terminal client by rust :zap:
-
-## Batchfile
-
-*   [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
-
-*   [FongMi/Release](https://github.com/FongMi/Release) -
-
-*   [WindowsAddict/IDM-Activation-Script](https://github.com/WindowsAddict/IDM-Activation-Script) - An open source tool to activate and reset trial of Internet Download Manager
 
 ## C
 
