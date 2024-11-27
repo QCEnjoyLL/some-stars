@@ -8,8 +8,8 @@
 
 ## Table of Contents
 
-*   [Batchfile](#batchfile)
 *   [Go](#go)
+*   [Batchfile](#batchfile)
 *   [Python](#python)
 *   [miscellaneous](#miscellaneous)
 *   [Vue](#vue)
@@ -33,17 +33,9 @@
 *   [Lua](#lua)
 *   [Roff](#roff)
 
-## Batchfile
-
-*   [oop7/IDM-Activator](https://github.com/oop7/IDM-Activator) - A script designed to automate the activation of IDM with a single click. It handles file management, decoding, and administrative tasks, simplifying the activation process for users.
-
-*   [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
-
-*   [FongMi/Release](https://github.com/FongMi/Release) -
-
-*   [WindowsAddict/IDM-Activation-Script](https://github.com/WindowsAddict/IDM-Activation-Script) - An open source tool to activate and reset trial of Internet Download Manager
-
 ## Go
+
+*   [lemoex/oci-help](https://github.com/lemoex/oci-help) - 甲骨文实例抢购教程
 
 *   [oneclickvirt/backtrace](https://github.com/oneclickvirt/backtrace) - 三网回程路由线路测试模块，基于 https://github.com/zhanghanyun/backtrace 的重构和优化，与原版存在很大不同
 
@@ -88,6 +80,16 @@
 *   [qjfoidnh/BaiduPCS-Go\_edited](https://github.com/qjfoidnh/BaiduPCS-Go_edited) - 百度网盘客户端 - Go语言编写
 
 *   [yeasy/docker\_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker\&Container technologies, with real DevOps practice!
+
+## Batchfile
+
+*   [oop7/IDM-Activator](https://github.com/oop7/IDM-Activator) - A script designed to automate the activation of IDM with a single click. It handles file management, decoding, and administrative tasks, simplifying the activation process for users.
+
+*   [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
+
+*   [FongMi/Release](https://github.com/FongMi/Release) -
+
+*   [WindowsAddict/IDM-Activation-Script](https://github.com/WindowsAddict/IDM-Activation-Script) - An open source tool to activate and reset trial of Internet Download Manager
 
 ## Python
 
@@ -600,8 +602,6 @@
 *   [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 
 *   [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede) - Lean's LEDE source
-
-*   [aperezdc/ngx-fancyindex](https://github.com/aperezdc/ngx-fancyindex) - Fancy indexes module for the Nginx web server
 
 ## HTML
 
