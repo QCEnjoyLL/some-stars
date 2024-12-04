@@ -85,7 +85,7 @@
 
 *   [oneclickvirt/backtrace](https://github.com/oneclickvirt/backtrace) - 三网回程路由线路测试模块，基于 https://github.com/zhanghanyun/backtrace 的重构和优化，与原版存在很大不同
 
-*   [yosebyte/passport](https://github.com/yosebyte/passport) - All-in-one yet simple tool for network tunneling and port forwarding with secure access control all using 1-URL command.
+*   [yosebyte/passport](https://github.com/yosebyte/passport) - Powerful yet simple solution for network tunneling and port forwarding with secure access control all using 1-URL command.
 
 *   [scjtqs2/mtlogin](https://github.com/scjtqs2/mtlogin) - 馒头pt的保活签到脚本服务
 
