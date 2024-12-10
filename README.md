@@ -35,6 +35,8 @@
 
 ## Shell
 
+*   [xubiaolin/docker-zerotier-planet](https://github.com/xubiaolin/docker-zerotier-planet) - 一分钟私有部署zerotier-planet服务
+
 *   [wcwq98/realm](https://github.com/wcwq98/realm) - realm一键转发脚本
 
 *   [spiritLHLS/ecs](https://github.com/spiritLHLS/ecs) - VPS融合怪服务器测评项目(VPS Fusion Monster Server Test Script)(尽量做最全能测试服务器的脚本)
@@ -394,8 +396,6 @@
 *   [jielive/initial](https://github.com/jielive/initial) - A Typecho Theme
 
 *   [sebsauvage/Shaarli](https://github.com/sebsauvage/Shaarli) - The personal, minimalist, super-fast, no-database delicious clone.
-
-*   [5iux/sou](https://github.com/5iux/sou) - 简单搜索，一个简单的前端界面。用惯了各种导航首页，满屏幕尽是各种不厌其烦的广告和资讯；尝试自己写个自己的主页。
 
 ## C\#
 
