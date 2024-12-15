@@ -8,8 +8,8 @@
 
 ## Table of Contents
 
-*   [Java](#java)
 *   [Shell](#shell)
+*   [Java](#java)
 *   [TypeScript](#typescript)
 *   [Go](#go)
 *   [Batchfile](#batchfile)
@@ -33,21 +33,11 @@
 *   [Lua](#lua)
 *   [Roff](#roff)
 
-## Java
-
-*   [isinvon/gold-foil-font-api](https://github.com/isinvon/gold-foil-font-api) - gold-foil-api - 烫金字体API, 为新年欢呼!
-
-*   [ZCShou/GoGoGo](https://github.com/ZCShou/GoGoGo) - 一个基于 Android 调试 API + 百度地图实现的虚拟定位工具，并且同时实现了一个可以自由移动的摇杆
-
-*   [CodePhiliaX/Chat2DB](https://github.com/CodePhiliaX/Chat2DB) - 🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
-
-*   [HMCL-dev/HMCL](https://github.com/HMCL-dev/HMCL) - A Minecraft Launcher which is multi-functional, cross-platform and popular
-
-*   [201206030/novel](https://github.com/201206030/novel) - novel 是一套基于时下最新 Java 技术栈 Spring Boot 3 + Vue 3 开发的前后端分离学习型小说项目，配备保姆级教程手把手教你从零开始开发上线一套生产级别的 Java 系统，由小说门户系统、作家后台管理系统、平台后台管理系统等多个子系统构成。包括小说推荐、作品检索、小说排行榜、小说阅读、小说评论、会员中心、作家专区、充值订阅、新闻发布等功能。
-
-*   [201206030/novel-plus](https://github.com/201206030/novel-plus) - novel-plus 是一个多端（PC、WAP）阅读 、功能完善的小说 CMS 系统。包括小说推荐、小说检索、小说排行、小说阅读、小说书架、小说评论、小说爬虫、会员中心、作家专区、充值订阅、新闻发布等功能。
-
 ## Shell
+
+*   [leitbogioro/Tools](https://github.com/leitbogioro/Tools) - Something about tools
+
+*   [bin456789/reinstall](https://github.com/bin456789/reinstall) - 一键DD/重装脚本 (One-click reinstall OS on VPS)
 
 *   [xubiaolin/docker-zerotier-planet](https://github.com/xubiaolin/docker-zerotier-planet) - 一分钟私有部署zerotier-planet服务
 
@@ -111,7 +101,19 @@
 
 *   [openfans-community-offical/Debian-Pi-Aarch64](https://github.com/openfans-community-offical/Debian-Pi-Aarch64) - This is the first 64-bit system in the world to support all Raspberry Pi 64-bit hardware!!! (Include: PI400,4B,3B+,3B,3A+,Zero2W)
 
-*   [richarvey/nginx-php-fpm](https://github.com/richarvey/nginx-php-fpm) - Nginx and php-fpm for dockerhub builds
+## Java
+
+*   [isinvon/gold-foil-font-api](https://github.com/isinvon/gold-foil-font-api) - gold-foil-api - 烫金字体API, 为新年欢呼!
+
+*   [ZCShou/GoGoGo](https://github.com/ZCShou/GoGoGo) - 一个基于 Android 调试 API + 百度地图实现的虚拟定位工具，并且同时实现了一个可以自由移动的摇杆
+
+*   [CodePhiliaX/Chat2DB](https://github.com/CodePhiliaX/Chat2DB) - 🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
+
+*   [HMCL-dev/HMCL](https://github.com/HMCL-dev/HMCL) - A Minecraft Launcher which is multi-functional, cross-platform and popular
+
+*   [201206030/novel](https://github.com/201206030/novel) - novel 是一套基于时下最新 Java 技术栈 Spring Boot 3 + Vue 3 开发的前后端分离学习型小说项目，配备保姆级教程手把手教你从零开始开发上线一套生产级别的 Java 系统，由小说门户系统、作家后台管理系统、平台后台管理系统等多个子系统构成。包括小说推荐、作品检索、小说排行榜、小说阅读、小说评论、会员中心、作家专区、充值订阅、新闻发布等功能。
+
+*   [201206030/novel-plus](https://github.com/201206030/novel-plus) - novel-plus 是一个多端（PC、WAP）阅读 、功能完善的小说 CMS 系统。包括小说推荐、小说检索、小说排行、小说阅读、小说书架、小说评论、小说爬虫、会员中心、作家专区、充值订阅、新闻发布等功能。
 
 ## TypeScript
 
@@ -404,8 +406,6 @@
 *   [AlanDecode/Typecho-Plugin-Mailer](https://github.com/AlanDecode/Typecho-Plugin-Mailer) - 📧 又一款评论邮件提醒插件
 
 *   [jielive/initial](https://github.com/jielive/initial) - A Typecho Theme
-
-*   [sebsauvage/Shaarli](https://github.com/sebsauvage/Shaarli) - The personal, minimalist, super-fast, no-database delicious clone.
 
 ## C\#
 
