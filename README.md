@@ -277,6 +277,8 @@
 
 *   [passeway/root](https://github.com/passeway/root) - 通过生成或输入密码更改 root 用户密码，修改 SSH 配置（允许 root 登录并启用密码验证），甲骨文云&谷歌云开启root登录模式。
 
+*   [Aethersailor/Custom\_OpenClash\_Rules](https://github.com/Aethersailor/Custom_OpenClash_Rules) - 分流完善的 OpenClash 订阅转换模板，搭配保姆级 OpenClash 设置教程，无需套娃其他插件即可实现完美分流、DNS无污染无泄漏，且快速的国内外上网体验。
+
 *   [fscarmen2/Argo-Nezha-Service-Container](https://github.com/fscarmen2/Argo-Nezha-Service-Container) - Nezha server over Argo tunnel 使用 Argo 隧道的哪吒服务端
 
 *   [ccbikai/without-ipv4](https://github.com/ccbikai/without-ipv4) - 没有公网 IPv4 也能玩转 Homelab 远程访问
@@ -490,8 +492,6 @@
 *   [foss-android/docker2tar](https://github.com/foss-android/docker2tar) - Docker镜像智能打包离线包
 
 *   [JeoJay127/RapidEFI-Tool](https://github.com/JeoJay127/RapidEFI-Tool) - An excellent one-click EFI configuration tool based on OpenCore
-
-*   [Aethersailor/Custom\_OpenClash\_Rules](https://github.com/Aethersailor/Custom_OpenClash_Rules) - 分流完善的 OpenClash 订阅转换模板，搭配保姆级 OpenClash 设置教程，无需套娃其他插件即可实现完美分流、DNS无污染无泄漏，且快速的国内外上网体验。
 
 *   [andandroidor/ourtv](https://github.com/andandroidor/ourtv) - 稳定、蓝光、高清、电视直播
 
