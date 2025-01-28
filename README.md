@@ -14,7 +14,6 @@
 *   [C#](#c)
 *   [Shell](#shell)
 *   [TypeScript](#typescript)
-*   [Batchfile](#batchfile)
 *   [Python](#python)
 *   [miscellaneous](#miscellaneous)
 *   [Vue](#vue)
@@ -23,6 +22,7 @@
 *   [CSS](#css)
 *   [HTML](#html)
 *   [Rust](#rust)
+*   [Batchfile](#batchfile)
 *   [C](#c-1)
 *   [C++](#c-2)
 *   [Dart](#dart)
@@ -367,15 +367,7 @@
 
 *   [getgridea/gridea](https://github.com/getgridea/gridea) - ✍️ A static blog writing client (一个静态博客写作客户端)
 
-## Batchfile
-
-*   [oop7/IDM-Activator](https://github.com/oop7/IDM-Activator) - A script designed to automate the activation of IDM with a single click. It handles file management, decoding, and administrative tasks, simplifying the activation process for users.
-
-*   [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
-
-*   [FongMi/Release](https://github.com/FongMi/Release) -
-
-*   [WindowsAddict/IDM-Activation-Script](https://github.com/WindowsAddict/IDM-Activation-Script) - An open source tool to activate and reset trial of Internet Download Manager
+*   [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 
 ## Python
 
@@ -614,6 +606,14 @@
 *   [HZzz2/tgbot-app](https://github.com/HZzz2/tgbot-app) - Telegram Bot助手
 
 *   [betta-cyber/netease-music-tui](https://github.com/betta-cyber/netease-music-tui) - netease cloud music terminal client by rust :zap:
+
+## Batchfile
+
+*   [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
+
+*   [FongMi/Release](https://github.com/FongMi/Release) -
+
+*   [WindowsAddict/IDM-Activation-Script](https://github.com/WindowsAddict/IDM-Activation-Script) - An open source tool to activate and reset trial of Internet Download Manager
 
 ## C
 
