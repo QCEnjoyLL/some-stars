@@ -269,8 +269,6 @@
 
 *   [ellermister/mtproxy](https://github.com/ellermister/mtproxy) - MTProxyTLS一键安装绿色脚本
 
-*   [Master08s/ocss](https://github.com/Master08s/ocss) - 一个Ubuntu,Centos,Debian等Linux系统全自动换源与docker一键安装换源的脚本
-
 *   [xykt/IPQuality](https://github.com/xykt/IPQuality) - A script for IP quality detection
 
 *   [spiritLHLS/Oracle-server-keep-alive-script](https://github.com/spiritLHLS/Oracle-server-keep-alive-script) - 服务器资源占用脚本(甲骨文服务器保活脚本)(Oracle Server Keep Alive Script)
@@ -474,6 +472,8 @@
 *   [pjialin/py12306](https://github.com/pjialin/py12306) - 🚂 12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理
 
 *   [yjqiang/YjMonitor](https://github.com/yjqiang/YjMonitor) - 协同监控 仅为示例 请自行搭建使用
+
+*   [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 
 ## miscellaneous
 
